@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\bin\Debug\net6.0\Class02_Exercise2.exe
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\bin\Debug\net6.0\Class02_Exercise2.deps.json
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\bin\Debug\net6.0\Class02_Exercise2.runtimeconfig.json
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\bin\Debug\net6.0\Class02_Exercise2.dll
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\bin\Debug\net6.0\Class02_Exercise2.pdb
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\obj\Debug\net6.0\Class02_Exercise2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\obj\Debug\net6.0\Class02_Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\obj\Debug\net6.0\Class02_Exercise2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\obj\Debug\net6.0\Class02_Exercise2.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\obj\Debug\net6.0\Class02_Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\obj\Debug\net6.0\Class02_Exercise2.dll
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\obj\Debug\net6.0\refint\Class02_Exercise2.dll
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\obj\Debug\net6.0\Class02_Exercise2.pdb
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\obj\Debug\net6.0\Class02_Exercise2.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Homeworks\New folder\Class02_Exercise2\Class02_Exercise2\obj\Debug\net6.0\ref\Class02_Exercise2.dll
